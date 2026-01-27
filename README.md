@@ -2,9 +2,9 @@
 
 - Praticar PHP nível intermediário
 - Reforçar lógica de programação  
-- Compreender conceitos como manipulação de Arrays, Programação Orientada a Objetos, etc.
+- Compreender conceitos como manipulação de Arrays, Programação Orientada a Objetos...
 - Manter um histórico organizado de estudos no GitHub  
-- Repositório será atualizado conforme o avanço nos estudos
+- Este repositório será atualizado conforme o avanço nos estudos
 
 ---
 ### Tecnologias Utilizadas

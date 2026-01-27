@@ -17,15 +17,16 @@
         }
     }
 
-    $primeiroLivro = new Livro();
+    $livro1 = new Livro();
     
-    $primeiroLivro -> nomeLivro = "Anne de Green Gables";
-    $primeiroLivro -> anoLancamento = 1908;
-    $primeiroLivro -> qtdPaginas = 429;
+    $livro1 -> nomeLivro = "Anne de Green Gables";
+    $livro1 -> anoLancamento = 1908;
+    $livro1 -> qtdPaginas = 429;
 
-    echo $primeiroLivro->nomeLivro . "<br>";
-    echo $primeiroLivro->anoLancamento . "<br>";
-    echo $primeiroLivro->qtdPaginas . "<br>";
-    echo $primeiroLivro->emprestar();
+    echo $livro1 -> nomeLivro . "<br>";
+    echo $livro1 -> anoLancamento . "<br>";
+    echo $livro1 -> qtdPaginas . "<br>";
+    echo $livro1 -> emprestar();
+    echo $livro1 -> vender();
 
 ?>
