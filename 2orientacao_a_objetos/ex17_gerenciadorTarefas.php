@@ -55,6 +55,4 @@
     $tarefa1 = new Task("Estudar", "Estudar Orientação a Objetos no PHP", true);
     echo $tarefa1->mostrarInfoTarefa();
 
-
-
 ?>
